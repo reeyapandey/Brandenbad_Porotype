@@ -61,36 +61,6 @@ Employees list with roles and permissions.
 
 Settings section placeholder for future customization.
 
-📂 Project Structure
-brandenbed-dashboard/
-├── public/
-│   └── index.html                # Main HTML entry point
-├── src/
-│   ├── components/               # Reusable UI components
-│   │   ├── Chart.jsx             # Line chart component using Recharts
-│   │   ├── StatsCard.jsx         # Component for displaying statistics cards
-│   │   └── Sidebar.jsx           # Sidebar navigation
-│   │
-│   ├── pages/                    # Page-level components
-│   │   ├── LandingPage.jsx       # Customer-facing landing page
-│   │   └── Dashboard.jsx         # Internal dashboard layout
-│   │
-│   ├── dashboardTabs/            # Individual dashboard sections
-│   │   ├── Overview.jsx          # Dashboard overview tab
-│   │   ├── Properties.jsx        # Property management tab
-│   │   ├── Tasks.jsx             # Task management tab
-│   │   ├── TenantQueries.jsx     # Tenant queries tab
-│   │   ├── RentCollection.jsx    # Rent submission & history
-│   │   ├── Employees.jsx         # Employee management tab
-│   │   └── Settings.jsx          # Settings tab placeholder
-│   │
-│   ├── App.jsx                    # Main React component, handles routing/views
-│   ├── index.js                   # React entry point
-│   └── styles.css                 # TailwindCSS and global styles
-│
-├── package.json                   # Project dependencies and scripts
-├── tailwind.config.js             # Tailwind configuration
-└── README.md                      # Project documentation
 
 🛠️ Tech Stack
 
@@ -145,4 +115,5 @@ Rent collection submission and payment history
 👤 Author
 
 [Your Name] – Prototype Developer
+
 Company: Brandenbed Living Spaces UG (haftungsbeschränkt)
