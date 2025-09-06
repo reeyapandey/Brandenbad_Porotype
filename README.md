@@ -112,8 +112,4 @@ Property and employee lists with add/edit options
 
 Rent collection submission and payment history
 
-👤 Author
 
-[Your Name] – Prototype Developer
-
-Company: Brandenbed Living Spaces UG (haftungsbeschränkt)
