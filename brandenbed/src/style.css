@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom overrides if needed */
+body {
+  font-family: "Inter", sans-serif;
+}
